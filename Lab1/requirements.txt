@@ -1,0 +1,11 @@
+tqdm
+loguru
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
+torch
+umap-learn
+jupyterlab
+torch_geometric
