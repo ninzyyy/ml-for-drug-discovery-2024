@@ -1,1 +1,1 @@
-# mtl_summer_school_2024
+# ml-for-drug-discovery-2024
